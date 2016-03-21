@@ -10,6 +10,9 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.cisc181.eNums.eTitle;
+import com.cisc181.core.*;
+
+
 
 public class Staff_Test {
 
