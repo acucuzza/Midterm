@@ -2,15 +2,13 @@ package com.cisc181.core;
 
 import static org.junit.Assert.*;
 
+import com.cisc181.core.Staff;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-
 import org.junit.BeforeClass;
 import org.junit.Test;
-
-import com.cisc181.eNums.eTitle;
-import com.cisc181.core.*;
+import com.cisc181.eNums.*;
 
 
 
