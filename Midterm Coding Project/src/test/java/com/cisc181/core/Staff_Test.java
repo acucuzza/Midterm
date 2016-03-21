@@ -20,6 +20,7 @@ public class Staff_Test {
 	@Test
 	public void AverageSalaryTest() {
 		
+		//i cant figure out why it says staff cant be resolved to a type, it was working then i walked away from my computer and now its not.
 		ArrayList <Staff> Staff = new ArrayList<Staff>();
 		Date d = new Date();
 		Staff s1 = new Staff("Jon", "Michael", "Smith", d, "1 Drury Lane", "123-456-7890", "jms@school.edu", "3pm - 4pm", 4, 27000.00, d, eTitle.MR);
